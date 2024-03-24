@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>GAC</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>1c68554b97c54210e6f9b82de053af75</logo>
+        <menu/>
+        <name>SN Trivia Spoke</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_913118_sn_trivia</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>SN Trivia Spoke</short_description>
+        <source>x_913118_sn_trivia</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-24 11:38:21</sys_created_on>
+        <sys_id>bf58d94f97c54210e6f9b82de053afbf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-24 11:38:23</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=bf58d94f97c54210e6f9b82de053afbf"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>XRvdbXhbIj98z8oU_8Bre_eAxaYSRv4KP.png</file_name>
+        <hash>3aa56e6d8ba98b43a8fc6894c2ced001d6a793c476e14ce1f8e3bf048818d4aa</hash>
+        <image_height>45</image_height>
+        <image_width>45</image_width>
+        <size_bytes>518</size_bytes>
+        <size_compressed>541</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-24 11:38:22</sys_created_on>
+        <sys_id>1c68554b97c54210e6f9b82de053af75</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-24 11:38:23</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>bf58d94f97c54210e6f9b82de053afbf</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="XRvdbXhbIj98z8oU_8Bre_eAxaYSRv4KP.png" sys_id="1c68554b97c54210e6f9b82de053af75">1c68554b97c54210e6f9b82de053af75</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-24 11:38:22</sys_created_on>
+        <sys_id>5c68554b97c54210e6f9b82de053af75</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AQYC+f2JUE5HDQoaCgAAAA1JSERSAAAALQAAAC0EAwAAAMg0/6kAAAAEZ0FNQQAAsY8L/GEFAAAAAXNSR0IArs4c6QAAAAlwSFlzAAALEgAACxIB0t1+/AAAABtQTFRFKD5A////WW1shrek29/fZZB/k8CudaaUPFJSuyxZ3AAAAXRJREFUOMu9k7FugzAQhn/sBHcExAO4UbojWYI18AQolZUVCckzKoqypm/eOxzAJF1bT/DZ/s/33x3SX1eCf+K5hqhfOWHg+MIJx64LLjx4g9g4h/dnruVgP8siogNezfMcBXAZic9hPM/QAda2UQpS4zCeJ9J12F9JH6YaOczMTQF1RZ3i1qLYLXxvW6hBpCnooxCr/hlaDXSO4xos7yETTop1mw2n32MiUTNF3CP0M1HAnbEzW/5GcDSl66sNzwBHO/Zm7cxJVtQ5pCM3cDjoxzsn70UNaYZoinz0PCNTyB/s2aDprudJ7PqSNz4Qhf4nsrL2Ylj8e8PV1wHTuu+23MJHZsdCPvhgWiLXvvgLZ9OIh/XNMMB1EVXZQMedmDlX3VDNM+Ioeyz9oJWphig9yZ6cG1feQJwpVR3T+bNd+WQQ90JPWbci6KupmWE452L33P+gVuwq36Qh18LerljzmldDNZmHIOThbGzmq1lH5s/n9wdoiF4lOpZlyQAAAABJRU5ErkJggvHDAgEGAgAA</data>
+        <length>708</length>
+        <position>1</position>
+        <sys_attachment display_value="XRvdbXhbIj98z8oU_8Bre_eAxaYSRv4KP.png" sys_id="1c68554b97c54210e6f9b82de053af75">1c68554b97c54210e6f9b82de053af75</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-24 11:38:22</sys_created_on>
+        <sys_id>dc68554b97c54210e6f9b82de053af75</sys_id>
+    </sys_attachment_doc>
+</record_update>
